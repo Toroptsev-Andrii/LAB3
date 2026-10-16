@@ -1,0 +1,14 @@
+[23:26:16] Form1 loaded
+[23:34:27] open form2
+[23:43:31] Form1 loaded
+[23:43:35] open form2
+[23:43:40] select list of tables from db
+[23:43:40] saving document: Report.docx
+[23:43:43] calculate: 6 + 2 = 8
+[00:02:07] Form1 loaded
+[00:02:12] open form2
+[00:02:17] calculate: 22222 + 12 = 22234
+[00:02:23] User input error: '213=фів', '12'
+[00:02:29] calculate: 213 + 12 = 225
+[00:02:32] select list of tables from db
+[00:02:32] saving document: Report.docx

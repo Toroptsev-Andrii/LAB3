@@ -1,0 +1,6 @@
+C:\Users\Andrii\source\repos\КПЗ лаб 3\Singleton_Library\bin\Debug\Singleton_Library.dll
+C:\Users\Andrii\source\repos\КПЗ лаб 3\Singleton_Library\bin\Debug\Singleton_Library.pdb
+C:\Users\Andrii\source\repos\КПЗ лаб 3\Singleton_Library\obj\Debug\Singleton_Library.csproj.AssemblyReference.cache
+C:\Users\Andrii\source\repos\КПЗ лаб 3\Singleton_Library\obj\Debug\Singleton_Library.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\source\repos\КПЗ лаб 3\Singleton_Library\obj\Debug\Singleton_Library.dll
+C:\Users\Andrii\source\repos\КПЗ лаб 3\Singleton_Library\obj\Debug\Singleton_Library.pdb

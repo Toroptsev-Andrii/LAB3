@@ -1,0 +1,14 @@
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\bin\Debug\КПЗ лаб 3.exe.config
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\bin\Debug\КПЗ лаб 3.exe
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\bin\Debug\КПЗ лаб 3.pdb
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\bin\Debug\Singleton_Library.dll
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\bin\Debug\Singleton_Library.pdb
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\obj\Debug\КПЗ лаб 3.csproj.AssemblyReference.cache
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\obj\Debug\КПЗ_лаб_3.Properties.Resources.resources
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\obj\Debug\КПЗ лаб 3.csproj.GenerateResource.cache
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\obj\Debug\КПЗ лаб 3.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\obj\Debug\КПЗ лаб 3.csproj.Up2Date
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\obj\Debug\КПЗ лаб 3.exe
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\obj\Debug\КПЗ лаб 3.pdb
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\obj\Debug\КПЗ_лаб_3.Form1.resources
+C:\Users\Andrii\source\repos\КПЗ лаб 3\КПЗ лаб 3\obj\Debug\КПЗ_лаб_3.Form2.resources
